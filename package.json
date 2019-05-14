@@ -43,7 +43,11 @@
     "url": "https://github.com/strong-roots-capital/stream-array/issues"
   },
   "homepage": "https://github.com/strong-roots-capital/stream-array",
-  "dependencies": {},
+  "dependencies": {
+    "@types/readable-stream": "^2.3.1",
+    "ow": "^0.13.1",
+    "readable-stream": "^3.3.0"
+  },
   "devDependencies": {
     "@types/node": "^10.14.4",
     "@typescript-eslint/eslint-plugin": "^1.7.0",
