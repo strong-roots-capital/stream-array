@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/stream-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Pipe an array through a stream",
   "main": "dist/src/stream-array.js",
   "types": "dist/src/stream-array.d.ts",
